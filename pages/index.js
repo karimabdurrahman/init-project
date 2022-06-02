@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Valar Moghulis" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Bang, kalau mau ke bawah kasih tau ye bang
         </p>
       </main>
 
