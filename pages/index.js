@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Valar Moghulis" />
         <p className="description">
-          Bang, kalau mau ke bawah kasih tau ye bang
+          Bang, lagi dimana bang? <a href="www.instagram/durrahidingspot">Markas</a>
         </p>
       </main>
 
